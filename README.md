@@ -1,7 +1,8 @@
 # Linear-Regression
 
 In this project, you will implement linear regression and get to see it work on data.
-Files needed for this project
+This project is in Matlab.
+Files needed for this project -
 
 1. ex1.mlx - MATLAB Live Script that steps you through the exercise
 2. ex1data1.txt - Dataset for linear regression with one variable
